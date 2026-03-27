@@ -16,6 +16,10 @@
 ## Graph
 <img width="1600" height="395" alt="image" src="https://github.com/user-attachments/assets/72ab5cf5-9a05-47c8-bc05-090dda2ea1e7" />
 
+## CALCULATION
+
+<img width="1600" height="665" alt="image" src="https://github.com/user-attachments/assets/6b9efd93-9f13-4014-a698-3fbd2ffe4a87" />
+
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
 Practical frequency of Oscillation = 588hz
