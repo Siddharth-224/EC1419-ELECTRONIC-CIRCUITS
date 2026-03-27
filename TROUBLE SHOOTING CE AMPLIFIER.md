@@ -4,10 +4,12 @@
 <img width="693" height="277" alt="image" src="https://github.com/user-attachments/assets/3d74a48a-cfa9-4abf-988c-94f1da5d1062" />
 <img width="862" height="776" alt="image" src="https://github.com/user-attachments/assets/e84201fb-e35d-49d4-9f21-e5fe9856d519" />
 
-
-
 ## Tabulations 
 
+<img width="1520" height="1600" alt="image" src="https://github.com/user-attachments/assets/d653451b-2617-4a0d-be0d-5b4081d7058b" />
+
 ## Semilog Graph
+
+<img width="1096" height="1386" alt="image" src="https://github.com/user-attachments/assets/37fc3cb6-1ca6-4c2e-8425-395d569d7d4b" />
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
