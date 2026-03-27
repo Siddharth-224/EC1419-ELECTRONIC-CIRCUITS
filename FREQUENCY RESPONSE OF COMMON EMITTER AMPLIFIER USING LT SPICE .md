@@ -28,6 +28,8 @@
 
 <img width="1600" height="413" alt="image" src="https://github.com/user-attachments/assets/1818b6c5-28cc-4192-9e24-25b9e94b864a" />
 
+## CALCULATION
+
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
